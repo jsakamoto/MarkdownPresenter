@@ -158,6 +158,7 @@ Present.buildPrintPage = function () {
 Present.reload = function() {
     $.ajax({
         url: 'presentation.md',
+        cache: false,
         success: function(data) {
             if (data.length>0) {
                 converter = new Showdown.converter();
