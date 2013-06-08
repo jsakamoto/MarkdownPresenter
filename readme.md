@@ -6,11 +6,18 @@ This is what I use for giving simple, quick-to-produce presentations. Rather tha
 Demo and usage
 --------------
 Check out a demo
-[here](http://chrishulbert.github.com/MarkdownPresenter/Presenter.html).
-Use the arrow keys on your keyboard to switch between slides.
+[here](http://jsakamoto.github.com/MarkdownPresenter/Presenter.html).
+
+Markdown Presenter may work well on iPhone/iPad, Android, and PC Desktop browsers (Chrome, Firefox, IE - if you want touch support, you can chose IE10 on Windows8 -).
+
+Use the arrow keys on your keyboard or swipe horizontally on touch screen to switch between slides.
 
 You can reload the presentation at any time - staying on the same
 slide number - by pressing the spacebar.
+
+If you whould like to get fade in/out effect on switching between slides, type 'e' then 'f' key on your keyboard.  
+To reset this transition effect, type 'e' then 'n'.
+
 
 Installing
 ----------
