@@ -220,6 +220,7 @@ Present.reload = function() {
     $.ajax({
         url: 'presentation.md',
         cache: false,
+        dataType: 'text',
         success: function(data) {
             if (data.length>0) {
                 converter = new Showdown.converter();
