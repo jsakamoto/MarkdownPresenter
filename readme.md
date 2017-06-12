@@ -157,3 +157,4 @@ Related
   individual slides
 - [PageDown](http://code.google.com/p/pagedown/wiki/PageDown) - Stack
   Overflow's clone of Showdown
+- [gitpitch](https://github.com/gitpitch/gitpitch) - turns PITCHME.md in the root of a git repository into an online presentation at https://gitpitch.com/ or a local offline presentation
